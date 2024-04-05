@@ -1,1 +1,1 @@
-Pokedex
+Pokedex em js
